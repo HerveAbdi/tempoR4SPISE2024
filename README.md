@@ -5,16 +5,25 @@
 <!-- badges: end -->
 
 tempoR4SPISE2024
-provides data, programs, and documentation 
-for the SPISE-2024
+provides data, 
+*R*-code,
+programs,
+and documentation 
+for the SPISE2024  
 *Advanced Workshop on Sensory Evaluation* 
-(which took place from July 24, to July 25,
-2022, inHo Chi Minh City Vietnam).
+(scheduled for July 24, to July 25,
+2024, in Ho Chi Minh City Vietnam).
 
+If you are only or mstly interested
+in the data and the statistics,
+the *vignettes* are for you.
+If you are interested in the code,
+Keep on reading
 
 ## Installation
 
-You can install the development version of tempoR4SPISE2024 
+You can install the development 
+version of tempoR4SPISE2024 
  with the
 following lines of code:
 
@@ -24,7 +33,8 @@ following lines of code:
 remotes::install_github('HerveAbdi/tempoR4SPISE2024')
 ```
 
-To install the vignettes while installing the package, 
+To install the vignettes 
+while installing the package, 
 then run the
 following commands:
 
