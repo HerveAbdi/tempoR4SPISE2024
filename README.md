@@ -14,16 +14,17 @@ for the SPISE2024
 (scheduled for July 24, to July 25,
 2024, in Ho Chi Minh City Vietnam).
 
-If you are only or mstly interested
-in the data and the statistics,
+
+If you are only or mostly interested
+in the data and the statistical analysis,
 the *vignettes* are for you.
-If you are interested in the code,
-Keep on reading
+If you are also interested in the code,
+Keep on reading.
 
 ## Installation
 
 You can install the development 
-version of tempoR4SPISE2024 
+version of `tempoR4SPISE2024` 
  with the
 following lines of code:
 
